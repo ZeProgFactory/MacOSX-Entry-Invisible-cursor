@@ -19,6 +19,7 @@
             <Label
                 Text="Hello, World!"
                 SemanticProperties.HeadingLevel="Level1"
+                FontAttributes="Italic"
                 FontSize="32"
                 HorizontalOptions="Center" />
 
