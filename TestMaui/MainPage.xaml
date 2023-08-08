@@ -16,6 +16,8 @@
                 HeightRequest="200"
                 HorizontalOptions="Center" />
 
+            <DatePicker HorizontalOptions="Center" />
+
             <Label
                 Text="Hello, World!"
                 SemanticProperties.HeadingLevel="Level1"
